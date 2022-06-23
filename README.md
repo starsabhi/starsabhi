@@ -8,7 +8,7 @@
 - 💬 Ask me about my favorite teams in NFL
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek-bornak-semasna514865/)
 - 😄 Pronouns: Abhi
-- ⚡ Fun fact: I love to run marathons
+- ⚡ Fun fact: I think I am comedian 
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=starsabhi)
