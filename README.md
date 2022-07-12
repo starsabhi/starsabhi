@@ -25,7 +25,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starsabhi&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/starsabhi">
           <img width="https://github-readme-stats.vercel.app/api/top-langs/?username=starsabhi&langs_count=7&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=starsabhi&theme=gruvbox&hide_border=true" />
           </a>
